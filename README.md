@@ -6,35 +6,35 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Tech Store Sales Analysis](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+    - [Covid 19 Data Exploration](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+    - [Legendary Pokémon Analysis (Study Project)](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - Excel / Google Sheets
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
   - Power BI
   
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/Mukhtar-Ahmed-Ch/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
@@ -50,7 +50,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
+**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/Mukhtar-Ahmed-Ch/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
 
 **Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
 
@@ -63,7 +63,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/Mukhtar-Ahmed-Ch/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
 
 **Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
@@ -74,7 +74,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/Mukhtar-Ahmed-Ch/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -88,7 +88,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/Mukhtar-Ahmed-Ch/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
 **Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
@@ -120,5 +120,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/mukhtar-ahmed-197010205/)
+- Email: mukhtarashraf933@gmail.com
