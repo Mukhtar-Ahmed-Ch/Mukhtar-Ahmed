@@ -1,12 +1,12 @@
 # Mukhtar Ahmed - Data Analyst Portfolio
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I'm Mukhtar Ahmed! I have an analytical background in Data Analatyics and currently, I had currently completed my degree in physics (BS. physics). I have developed a strong foundation in the Data Analysics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level data specialist. 
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](https://github.com/Mukhtar-Ahmed-Ch/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/Mukhtar-Ahmed-Ch/
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -120,5 +120,5 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/mukhtar-ahmed-197010205/)
+- LinkedIn: [@mukhtarahmed](https://www.linkedin.com/in/mukhtar-ahmed-197010205/)
 - Email: mukhtarashraf933@gmail.com
